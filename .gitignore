@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+__env__/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.xls
+*.xlsx
+
+# Compiled Python files
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
