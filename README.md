@@ -1,4 +1,4 @@
-# North Sea Wind Turbines and Sedimentology Remote Sensing Project
+# Creating a mission: How to use remote sensing to observe the affect of Wind Turbines in the North Sea on the Sedimentology.
 
 ## Overview
 
