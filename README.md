@@ -6,7 +6,7 @@ The Netherlands is gearing up for a significant expansion of wind turbine parks 
 
 ## Project Objectives
 
-The primary goal of this project is to explore and understand the impact of wind turbines on sea sediments, with a special focus on the North Sea. By delving into the sedimentology, our aim is to contribute valuable insights into the ecological consequences of expanding wind turbine infrastructure in this region.
+The primary goal of this project is to develop a remote sensing mission dedicated to monitoring sea sediments, with a special focus on the North Sea. By delving into the sedimentology, our aim is to contribute valuable insights into the ecological consequences of expanding wind turbine infrastructure in this region.
 
 ## Scope
 
